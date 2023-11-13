@@ -2,6 +2,11 @@
 
 # By: Carlos Tivan
 
+
+'''Write a program that asks the user for a phrase or word and 
+   displays on the screen the number of times each vowel appears'''
+
+
 # Create a set of the vowels
 letters = {'a', 'e', 'i', 'o', 'u'}
 
